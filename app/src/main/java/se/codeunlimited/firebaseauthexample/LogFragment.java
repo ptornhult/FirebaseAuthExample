@@ -1,4 +1,4 @@
-package se.codeunlimited.lifecycletest;
+package se.codeunlimited.firebaseauthexample;
 
 import android.arch.lifecycle.LifecycleFragment;
 import android.os.Bundle;

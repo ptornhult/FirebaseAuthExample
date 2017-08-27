@@ -1,11 +1,11 @@
-package se.codeunlimited.lifecycletest;
+package se.codeunlimited.firebaseauthexample;
 
-import android.arch.lifecycle.LifecycleActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 import timber.log.Timber;
 
-public abstract class LogActivity extends LifecycleActivity {
+public abstract class LogActivity extends AppCompatActivity {
 
     private Timber.Tree getTimber() {
         return Timber.tag(getClass().getSimpleName());

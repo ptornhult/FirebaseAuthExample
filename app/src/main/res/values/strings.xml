@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FirebaseAuthExample</string>
+    <string name="loggedin">Logged in</string>
+    <string name="loggedout">Logged out</string>
 </resources>
